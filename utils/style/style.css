@@ -87,11 +87,8 @@ nav {
 .contato {
     display: flex;
     justify-content: space-around;
-    align-items: center;
     margin-top: 13rem;
-    height: 30rem;
-    width: 80%;
-    align-items: center;
+    
 }
 
 .contato .itens-contato {
@@ -105,8 +102,8 @@ nav {
 }
 
 .contato h1 {
-    font-size: 50px;
-    font-weight: 300;
+    font-size: 36px;
+    font-weight: bold;
     margin-bottom: 25px;
 }
 
@@ -128,7 +125,7 @@ nav {
 }
 
 .contato form input {
-    width: 500px;
+    width: 300px;
     height: 30px;
     margin-bottom: 10px;
     border: 1px solid #000;
@@ -136,7 +133,7 @@ nav {
 }
 
 .contato form textarea {
-    width: 500px;
+    width: 300px;
     height: 100px;
     margin-bottom: 10px;
     border: 1px solid #000;
